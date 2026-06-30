@@ -75,8 +75,4 @@ Total Spending = ₹150.0
 
 Name: K.TEJA SRIDHANYA
 
-Course: Python Programming Mini Project
 
-College: VVITU
-
-Year: 2026
