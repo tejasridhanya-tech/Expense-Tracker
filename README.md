@@ -73,10 +73,10 @@ Total Spending = ₹150.0
 
 ## Author
 
-Name: Your Name
+Name: K.TEJA SRIDHANYA
 
 Course: Python Programming Mini Project
 
-College: Your College Name
+College: VVITU
 
 Year: 2026
